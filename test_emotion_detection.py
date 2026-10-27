@@ -1,7 +1,7 @@
 """Tests for the emotion_detector application."""
 import unittest
 
-from emotion_detection import emotion_detector
+from EmotionDetection.emotion_detection import emotion_detector
 
 
 class TestEmotionDetector(unittest.TestCase):
